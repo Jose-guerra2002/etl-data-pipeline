@@ -1,0 +1,3 @@
+id_tipo_seguro,tipo,categoria,riesgo_base,motivo_rechazo
+9,Accidentes,,5.68,categoria_vacia
+12,Agrícola,,,categoria_vacia
